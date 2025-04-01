@@ -157,11 +157,6 @@ def updateChannelUrlsM3U(channels, template_channels):
 
             f_txt.write("\n")
 
-    # 对结果进行排序
-    #results.sort(key=lambda x: channel_key(x[0]))
-    results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
-    results.sort(key=lambda x: channel_key(x[0]))
-
     result_counter = 30  # 每个频道需要的个数
 
     with open("itvlist.txt", 'w', encoding='utf-8') as file:
