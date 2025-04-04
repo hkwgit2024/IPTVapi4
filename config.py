@@ -4,7 +4,7 @@ source_urls = [
     "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-    "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
+    "https://4key.cn/FP",
     "https://live.zhoujie218.top/tv/iptv6.txt",
     "https://live.zhoujie218.top/tv/iptv4.txt",
     "https://tv.youdu.fan:666/live/",
